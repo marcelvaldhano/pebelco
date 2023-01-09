@@ -1,8 +1,8 @@
 # Pebelco - PT. Borneo Putra Lestari
 PEBELCO is a web-based enterprise system to manage product, sales, delivering, complain, and exhibition of PT Putra Borneo Lestari. This project has been developed for Final Group Assignment of Information System Development Project Courses.
 
-**Kelompok C02**
 
+**Kelompok C02**
 ## Anggota Kelompok:
 - Earlene Shefila - *1806146921*
 - Marcel Valdhano - *1806191401*
